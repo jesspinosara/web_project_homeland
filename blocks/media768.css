@@ -1,0 +1,30 @@
+@media screen and (max-width: 768px) {
+  .header__title {
+    font-size: 75px;
+    line-height: 79px;
+  }
+
+  .header__image {
+    max-width: 768px;
+    padding-bottom: 90px;
+  }
+
+  .intro {
+    max-width: 720px;
+    padding: 0px, 24px;
+  }
+
+  .intro__title {
+    font-size: 45px;
+    line-height: 49px;
+    width: 100%;
+  }
+
+  .intro__paragraph {
+    width: 100%;
+  }
+
+  .footer__copyright {
+    margin-top: 60px;
+  }
+}

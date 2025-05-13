@@ -1,0 +1,40 @@
+.header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.header__logo {
+  margin-top: 34px;
+  width: 254px;
+}
+
+.header__title {
+  font-family: Inter;
+  color: #ffffff;
+  font-weight: 900;
+  font-size: 96px;
+  line-height: 100px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  margin-top: 90px;
+  margin-bottom: 32px;
+}
+
+.header__subtitle {
+  font-family: Inter;
+  font-size: 30px;
+  line-height: 36px;
+  font-weight: 400;
+  text-align: center;
+  max-width: 720px;
+  padding: 0px, 132px, 64px;
+}
+
+.header__image {
+  max-width: 984px;
+  width: 100%;
+  filter: grayscale();
+  padding-bottom: 90px;
+}
