@@ -23,7 +23,8 @@
   }
 
   .intro {
-    width: 288px;
+    max-width: 288px;
+    padding: 16px;
   }
 
   .intro__title {

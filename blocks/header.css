@@ -10,9 +10,7 @@
 }
 
 .header__title {
-  font-family: Inter;
   color: #ffffff;
-  font-weight: 900;
   font-size: 96px;
   line-height: 100px;
   text-align: center;
@@ -23,7 +21,6 @@
 }
 
 .header__subtitle {
-  font-family: Inter;
   font-size: 30px;
   line-height: 36px;
   font-weight: 400;
