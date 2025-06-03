@@ -21,6 +21,7 @@
   max-width: 460px;
   grid-column: 1;
   grid-row: 1;
+  margin: auto;
 }
 
 .place__website {
