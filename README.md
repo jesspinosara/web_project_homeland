@@ -6,4 +6,4 @@
 
 3.Se hizo uso de las media querys para lograr que el proyecto fuera responsivo en dispositivos de 1280px, 768px y 320px.
 
-4. Link GitHub: https://github.com/jesspinosara/web_project_homeland
+4. Link GitHub Pages: https://jesspinosara.github.io/web_project_homeland/
